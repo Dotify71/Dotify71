@@ -12,13 +12,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to building transparent, high-performance software. Currently, I'm focused on **Unbiased AI** and contributing to world-class libraries like **SHAP** and **liteLLM**.
 
-- 🔭 Working on **[Unbiased AI](https://github.com/Dotify71/Unbaised_AI)** – ensuring fairness in AI models.
-- 🌱 Learning advanced **Machine Learning Interpretability**.
-- 👯 Open to collaboration on **AI/ML projects** and **DevOps tooling**.
+-  Working on **[Unbiased AI](https://github.com/Dotify71/Unbaised_AI)** – ensuring fairness in AI models.
+-  Learning advanced **Machine Learning Interpretability**.
+-  Open to collaboration on **AI/ML projects** and **DevOps tooling**.
 
 ---
 
