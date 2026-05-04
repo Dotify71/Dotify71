@@ -33,16 +33,11 @@ I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to bui
 ### 📊 GitHub Activity
 
 <p align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dotify71&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E1E1E1&icon_color=03DAC6" alt="Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotify71&theme=radical&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakLabel=BB86FC" alt="Streak" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotify71&theme=radical&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakLabel=BB86FC" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dotify71&theme=radical&no-frame=true&margin-w=15&column=3" alt="Trophies" />
 </p>
 
 ---
@@ -56,12 +51,6 @@ I take pride in contributing to the foundations of modern AI and data science.
 | **[shap/shap](https://github.com/shap/shap)** | Refactored waterfall plotting APIs for explicit axis support. |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | Implemented Anthropic token compaction iteration tracking. |
 | **[ansible/ansible-lint](https://github.com/ansible/ansible-lint)** | Improved configuration visibility and error reporting for developers. |
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dotify71&theme=radical&no-frame=true&margin-w=15&column=3" alt="Trophies" />
-</p>
 
 ---
 
