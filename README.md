@@ -12,20 +12,20 @@
 
 ---
 
-###  About Me
+### About Me
 
 I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to building transparent, high-performance software. Currently, I'm focused on **Unbiased AI** and contributing to world-class libraries like **SHAP** and **liteLLM**.
 
--  Working on **[Unbiased AI](https://github.com/Dotify71/Unbaised_AI)** – ensuring fairness in AI models.
--  Learning advanced **Machine Learning Interpretability**.
--  Open to collaboration on **AI/ML projects** and **DevOps tooling**.
+- Working on **[Unbiased AI](https://github.com/Dotify71/Unbaised_AI)** — ensuring fairness in AI models.
+- Learning advanced **Machine Learning Interpretability**.
+- Open to collaboration on **AI/ML projects** and **DevOps tooling**.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,react,git,github,linux" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,react,git,github,linux" alt="My Skills" />
 </p>
 
 ---
@@ -33,11 +33,16 @@ I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to bui
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dotify71&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E1E1E1&icon_color=03DAC6" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotify71&theme=radical&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakLabel=BB86FC" alt="Streak" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dotify71&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E1E1E1&icon_color=03DAC6" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotify71&theme=radical&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakLabel=BB86FC" alt="Streak" />
+    </td>
+  </tr>
+</table>
 </p>
 
 ---
@@ -51,6 +56,12 @@ I take pride in contributing to the foundations of modern AI and data science.
 | **[shap/shap](https://github.com/shap/shap)** | Refactored waterfall plotting APIs for explicit axis support. |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | Implemented Anthropic token compaction iteration tracking. |
 | **[ansible/ansible-lint](https://github.com/ansible/ansible-lint)** | Improved configuration visibility and error reporting for developers. |
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dotify71&theme=radical&no-frame=true&margin-w=15&column=3" alt="Trophies" />
+</p>
 
 ---
 
