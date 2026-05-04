@@ -25,7 +25,7 @@ I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to bui
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,tensorflow,pytorch,docker,git,githubactions,linux" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,js,react,git,github,linux" alt="My Skills" />
 </p>
 
 ---
