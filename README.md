@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Full-Stack Developer** and **Open Source Contributor** dedicated to building transparent, high-performance software. Currently, I'm focused on **Unbiased AI** and contributing to world-class libraries like **SHAP** and **liteLLM**.
+I am a **Student at Newton School of Technology**, passionate about **Open Source**, **Backend Systems**, and **Developer Tools**. I spend my time building high-impact projects and am always learning new technologies to push the boundaries of software engineering.
 
 ---
 
