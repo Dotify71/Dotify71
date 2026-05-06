@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I am a **Student at Newton School of Technology**, based in **Bangalore, India**. I am deeply interested in **Open Source**, **Backend Systems**, and **Developer Tools**. I spend my time building projects that solve real-world problems and am always learning new technologies to push the boundaries of software engineering.
 
 ---
