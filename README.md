@@ -24,17 +24,6 @@ I am a **Student at Newton School of Technology**, based in **Bangalore, India**
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotify71&theme=radical&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakLabel=BB86FC" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dotify71&theme=radical&no-frame=true&margin-w=15&column=3" alt="Trophies" />
-</p>
-
----
-
 ### 🌟 Open Source Contributions
 <div align="center">
 
