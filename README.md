@@ -32,6 +32,9 @@ I am a **Student at Newton School of Technology**, based in **Bangalore, India**
 | **[shap/shap](https://github.com/shap/shap)** | Contributor | Refactored waterfall plotting APIs for explicit axis support. |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | Feature Dev | Implemented Anthropic token compaction iteration tracking. |
 | **[ansible/ansible-lint](https://github.com/ansible/ansible-lint)** | Logic Fixes | Improved configuration visibility and error reporting. |
+| **[apache/airflow](https://github.com/apache/airflow)** | Documentation | Fixed FAB auth manager UI configuration docs and SSO webserver commands. |
+| **[AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)** | Contributor | Fixed security vulnerability in shutdown endpoints and improved database error handling. |
+| **[AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate)** | Contributor | Resolved Gradle build crashes caused by missing keystore properties. |
 
 </div>
 
@@ -41,7 +44,7 @@ I am a **Student at Newton School of Technology**, based in **Bangalore, India**
 <p align="center">
   <a href="https://www.linkedin.com/in/dushyant-acharya-243205377/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Dotify71"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:dushyantacharya873@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dushyantacharya873@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </p>
 
