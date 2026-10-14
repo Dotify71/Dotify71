@@ -24,19 +24,17 @@ I am a **Student at Newton School of Technology**, based in **Bangalore, India**
 
 ---
 
-### 🌟 Open Source Contributions
-<div align="center">
+### 🌟 Featured Open Source Contributions
 
-| Project | Role | Contribution |
+| Project | Role | Key Merged Contribution |
 | :--- | :---: | :--- |
-| **[shap/shap](https://github.com/shap/shap)** | Contributor | Refactored waterfall plotting APIs for explicit axis support. |
-| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | Feature Dev | Implemented Anthropic token compaction iteration tracking. |
-| **[ansible/ansible-lint](https://github.com/ansible/ansible-lint)** | Logic Fixes | Improved configuration visibility and error reporting. |
-| **[apache/airflow](https://github.com/apache/airflow)** | Documentation | Fixed FAB auth manager UI configuration docs and SSO webserver commands. |
-| **[AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)** | Contributor | Fixed security vulnerability in shutdown endpoints and improved database error handling. |
-| **[AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate)** | Contributor | Resolved Gradle build crashes caused by missing keystore properties. |
-
-</div>
+| [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) | Contributor | Validated span context injects (#5696) & fixed `TraceIdRatioBased` sampler (#5737) |
+| [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) | Contributor | Implemented maintainer inheritance (#20038) & controller error handling (#20273) |
+| [apache/airflow](https://github.com/apache/airflow) | Contributor | Migrated processor to `pathlib.Path` & updated Airflow 3 FAB auth configurations |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Feature Dev | Added model cost mappings & surfaced Anthropic compaction iteration metrics |
+| [biomejs/biome](https://github.com/biomejs/biome) | Contributor | Implemented `useIncludes` AST linter rule & refined linter specifications |
+| [ansible/ansible-lint](https://github.com/ansible/ansible-lint) | Contributor | Resolved Jinja spacing parser syntax errors & surfaced configuration errors |
+| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | Contributor | Optimized asset lazy loading, refactored exception handlers, and hardened endpoints |
 
 ---
 
