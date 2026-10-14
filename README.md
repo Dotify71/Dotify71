@@ -1,8 +1,7 @@
 <div align="center">
 
-# Dushyant Acharya (Dotify71) 
-*Software Engineer | Bangalore, India *
-
+  <h1>Dushyant Acharya (Dotify71)</h1>
+  <h3><strong>Software Engineer | Bangalore, India</strong></h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Software+Engineer;Open+Source+Contributor;Building+Unbiased+AI;C%2B%2B+%2F+Python+%2F+React" alt="Typing SVG" />
 
 <p align="center">
